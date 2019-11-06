@@ -15,4 +15,4 @@
 
 * **git merge** *<branch_name>*
 
-* **git branch** -d *<branch_name>*
+* **git push** *<remote_repo_name>* --delete *<branch_name>*
